@@ -1,0 +1,1 @@
+A banking application is focused on providing users with essential banking functionalities: deposit, withdraw, check bank balance, and exit. With a clean and intuitive interface, users can perform these actions quickly and efficiently, making banking hassle-free.
